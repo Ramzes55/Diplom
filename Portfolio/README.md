@@ -13,9 +13,9 @@
 - Проведение тестирования функциональности по чек-листам, таблице валидации и требованиям.  
 - Заведение багов, найденных как по тестовой документации, так и вне её.
 
-<img src="Images/futer.png" alt="Основное окно приложения" width="900" height="auto">
-<img src="Images/order_status.png" alt="Экран выбора маршрута" width="900" height="auto">
-<img src="Images/validation.png" alt="Экран выбора маршрута" width="900" height="auto">
+<img src="images/futer.png" alt="Основное окно приложения" width="900" height="auto">
+<img src="images/order_status.png" alt="Экран выбора маршрута" width="900" height="auto">
+<img src="images/validation.png" alt="Экран выбора маршрута" width="900" height="auto">
 
 ### Задание 2: Мобильное приложение Яндекс.Самокат  
 - Анализ требований к мобильному приложению для курьеров.  
@@ -23,16 +23,16 @@
 - Проверка верстки по макетам в Figma.  
 - Проведение тестирования мобильного приложения и регистрация дефектов.
 
-<img src="Images/orderes_list.png" alt="Основное окно приложения" width="250" height="auto"> <img src="Images/connection_error.png" alt="Экран выбора маршрута" width="300" height="auto">
+<img src="images/orderes_list.png" alt="Основное окно приложения" width="250" height="auto"> <img src="images/connection_error.png" alt="Экран выбора маршрута" width="300" height="auto">
 
-<img src="Images/notification.png" alt="Экран выбора маршрута" width="300" height="auto">
+<img src="images/notification.png" alt="Экран выбора маршрута" width="300" height="auto">
 
 ### Задание 3: API Яндекс.Самокат  
 - Изучение требований к API в Apidoc.  
 - Проектирование чек-листа для тестирования API по требованиям.  
 - Проведение тестирования API в Postman и регистрация найденных дефектов.
 
-<img src="Images/Diplom_collection.png" alt="Экран выбора маршрута" width="800" height="auto">
+<img src="images/Diplom_collection.png" alt="Экран выбора маршрута" width="800" height="auto">
 
 ---
 
